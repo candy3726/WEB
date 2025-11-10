@@ -196,7 +196,7 @@ with col1:
 
 with col2:
     st.write("https://www.youtube.com/watch?v=qrqHlgqNTHo")
-    st.video("https://www.youtube.com/watch?v=B2iAodr0fOo")
+    st.video("https://www.youtube.com/watch?v=qrqHlgqNTHo")
 
 # --- 10. 마무리 ---
 st.markdown("---")
